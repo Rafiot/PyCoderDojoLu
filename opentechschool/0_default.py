@@ -5,4 +5,5 @@ from turtle import *
 
 # Do stuff
 
-turtle.exitonclick()
+if __name__ == '__main__':
+    exitonclick()

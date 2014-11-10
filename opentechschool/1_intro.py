@@ -6,13 +6,13 @@ from time import sleep
 
 speed(1)
 
-forward(500)
+forward(300)
 sleep(2)
 
 left(30)
 sleep(2)
 
-forward(300)
+forward(200)
 sleep(2)
 
 right(50)
