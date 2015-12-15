@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*- #
+
 import turtle
 
 turtle.speed(9)
@@ -24,4 +26,4 @@ def main():
     tree(75,t)
     myWin.exitonclick()
 
-main()
+if __name__ == '__main__': main()
